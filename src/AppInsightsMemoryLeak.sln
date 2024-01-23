@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet8", "AspNet8\AspNet8.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet8AppInsights", "AspNet8AppInsights\AspNet8AppInsights.csproj", "{865433D8-F081-4740-8163-5652E405A80F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet6", "AspNet6\AspNet6.csproj", "{EC56C04A-1CE8-44BF-9FDF-F020D5FE4F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet6AppInsights", "AspNet6AppInsights\AspNet6AppInsights.csproj", "{9260258E-CB4F-4647-AD56-164A2B82E2DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{865433D8-F081-4740-8163-5652E405A80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{865433D8-F081-4740-8163-5652E405A80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{865433D8-F081-4740-8163-5652E405A80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC56C04A-1CE8-44BF-9FDF-F020D5FE4F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC56C04A-1CE8-44BF-9FDF-F020D5FE4F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC56C04A-1CE8-44BF-9FDF-F020D5FE4F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC56C04A-1CE8-44BF-9FDF-F020D5FE4F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9260258E-CB4F-4647-AD56-164A2B82E2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9260258E-CB4F-4647-AD56-164A2B82E2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9260258E-CB4F-4647-AD56-164A2B82E2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9260258E-CB4F-4647-AD56-164A2B82E2DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
